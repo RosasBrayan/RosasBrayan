@@ -11,7 +11,6 @@
 🌟 Siempre estoy abierto/a a nuevas oportunidades de aprendizaje, colaboración y crecimiento. ¡No dudes en contactarme para conversar sobre proyectos interesantes o simplemente para compartir ideas y experiencias!
 
 ¡Gracias por visitar mi perfil y acompañarme en esta emocionante aventura!
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fes%2Fdesktop-wallpaper-tvrek&psig=AOvVaw20Th2DP3YXGO7O6-QoiAIQ&ust=1715481629656000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiWoKvJhIYDFQAAAAAdAAAAABAI
 
 <!--
 **RosasBrayan/RosasBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
