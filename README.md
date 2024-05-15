@@ -19,7 +19,7 @@ https://github.com/RosasBrayan/PracticosenClase/blob/main/algotitmoDeOperaciones
 https://github.com/RosasBrayan/PracticosenClase/tree/main/pidrapapeltijera
 https://github.com/RosasBrayan/PracticosenClase/blob/main/21clse
 
-¡Gracias por visitar mi perfil y acompañarme en esta emocionalinknte aventura!
+¡Gracias por visitar mi perfil y acompañarme en ésta semana emocionalinknte aventura!, les comparto mi WhatsApp dónde pueden comunicarse con mi persona.
 
 WhatsApp: https://wa.link/xwmrum
 <!--
