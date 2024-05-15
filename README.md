@@ -14,8 +14,12 @@
 Links:
 
 https://github.com/RosasBrayan/PracticosenClase
+https://github.com/RosasBrayan/PracticosenClase/blob/main/algotitmoDeOperacionesAleatorio.psc
+https://github.com/RosasBrayan/PracticosenClase/tree/main/pidrapapeltijera
+https://github.com/RosasBrayan/PracticosenClase/blob/main/21clse
 
 ¡Gracias por visitar mi perfil y acompañarme en esta emocionalinknte aventura!
+
 WhatsApp: https://wa.link/xwmrum
 <!--
 **RosasBrayan/RosasBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
