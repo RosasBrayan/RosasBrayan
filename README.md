@@ -10,7 +10,8 @@
 
 🌟 Siempre estoy abierto/a a nuevas oportunidades de aprendizaje, colaboración y crecimiento. ¡No dudes en contactarme para conversar sobre proyectos interesantes o simplemente para compartir ideas y experiencias!
 
-⚠️ Les comparto algunos de los codigos que eh realizado como estudiante de introducción programación me e dedicado en el manejo del lenguaje de python, diseño el juego de piedra papel y tijeras entre otros.
+⚠️ Les comparto algunos de los codigos que eh realizado como estudiante de introducción programación me e dedicado en el manejo del lenguaje de python, diseñe el juego de piedra papel y tijeras entre otros.
+
 Links:
 
 https://github.com/RosasBrayan/PracticosenClase
