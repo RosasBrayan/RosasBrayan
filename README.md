@@ -10,7 +10,12 @@
 
 🌟 Siempre estoy abierto/a a nuevas oportunidades de aprendizaje, colaboración y crecimiento. ¡No dudes en contactarme para conversar sobre proyectos interesantes o simplemente para compartir ideas y experiencias!
 
-¡Gracias por visitar mi perfil y acompañarme en esta emocionante aventura!
+⚠️ Les comparto algunos de los codigos que eh realizado como estudiante de introducción programación me e dedicado en el manejo del lenguaje de python, diseño el juego de piedra papel y tijeras entre otros.
+Links:
+
+https://github.com/RosasBrayan/PracticosenClase
+
+¡Gracias por visitar mi perfil y acompañarme en esta emocionalinknte aventura!
 
 <!--
 **RosasBrayan/RosasBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
